@@ -1,13 +1,12 @@
 # ShadowCTF Quals: Middle Ages
 
-** Cat: ** OSInt
+**Cat: ** OSInt
+**Score: ** 100
 
-** Score: ** 100
-
-##Description:
+## Description:
 > Когда-то, давным давно, когда CTForces ещё не летал и были баги, наш админ опубликовал свои секреты. Найдете? 
 
-##Solution:
+## Solution:
 
 Раз давно, то нужно разбудить старушку Wayback Machine. Открываем ее и проверяем на наличие снапшота.
 
