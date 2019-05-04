@@ -1,8 +1,8 @@
 # ShadowCTF Quals: Middle Ages
 
-**Cat: ** OSInt
+*Cat:* OSInt
 
-**Score: ** 100
+*Score:* 100
 
 ## Description:
 > Когда-то, давным давно, когда CTForces ещё не летал и были баги, наш админ опубликовал свои секреты. Найдете? 
