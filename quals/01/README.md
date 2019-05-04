@@ -1,6 +1,7 @@
 # ShadowCTF Quals: Middle Ages
 
 **Cat: ** OSInt
+
 **Score: ** 100
 
 ## Description:
